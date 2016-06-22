@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Firstapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_multiple_buttons">MultipleButtons</string>
+    <string name="title_activity_mortgage__calc">Mortgage_Calc</string>
+
+</resources>
